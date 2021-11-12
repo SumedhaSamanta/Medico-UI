@@ -1,0 +1,27 @@
+.appoint {
+    height: 350px;
+    border-color: #115CCD;
+    border-style: solid;
+    border-width: 1px;
+}
+.welcome{
+    border-color: #115CCD;
+    border-style: solid;
+    height: 200px;
+    background-color: aquamarine;
+}
+.welcome-width{
+    height: 100px;
+    width: 30px;
+}
+ .bzero{
+    border: 0;
+ }
+
+ .w-75 {
+    width: 75%;
+}
+.imgheight{
+    height: 200px;
+    width: 200px;
+}
